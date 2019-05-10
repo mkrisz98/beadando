@@ -7,3 +7,5 @@ def elofordulasok(string1,string2):
     return elofordulas
 print(elofordulasok("ejifhsdjhgdsghdebrecendshjq dhfdgds dsjfds zebddebrecenh hxz","debrecen"))
 
+
+
